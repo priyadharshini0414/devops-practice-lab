@@ -35,22 +35,6 @@ To gain practical experience in core DevOps tools by working on real-world tasks
 
 ---
 
-##  Proof of Work
-
-###  Docker
-![Docker Tasks](screenshots/docker-tasks.png)
-
-###  Ansible
-![Ansible Tasks](screenshots/ansible-tasks.png)
-
-###  Git
-![Git Tasks](screenshots/git-tasks.png)
-
-###  Kubernetes
-![Kubernetes Tasks](screenshots/kubernetes-tasks.png)
-
----
-
 ##  Learning Approach
 
 All tasks were completed through guided hands-on labs on KodeKloud, focusing on real-world DevOps scenarios.
