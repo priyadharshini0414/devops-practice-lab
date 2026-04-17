@@ -17,6 +17,3 @@ This section includes configuration management and automation tasks using Ansibl
 - SSH configuration for automation  
 - Automating file operations across servers  
 
-##  Proof
-
-![Ansible Tasks](../screenshots/ansible-tasks.png)
