@@ -17,6 +17,3 @@ This section demonstrates version control tasks using Git.
 - Managing updates and changes  
 - Working with remote repositories  
 
-##  Proof
-
-![Git Tasks](../screenshots/git-tasks.png)
