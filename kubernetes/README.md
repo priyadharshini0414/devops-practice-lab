@@ -27,6 +27,4 @@ This section covers container orchestration tasks using Kubernetes.
 - Scheduling jobs using CronJobs  
 - Troubleshooting cluster issues  
 
-##  Proof
 
-![Kubernetes Tasks](../screenshots/kubernetes-tasks.png)
