@@ -18,6 +18,3 @@ This section covers practical Docker tasks completed on KodeKloud.
 - Working with container file systems  
 - Debugging container issues  
 
-##  Proof
-
-![Docker Tasks](../screenshots/docker-tasks.png)
